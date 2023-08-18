@@ -1,2 +1,2 @@
 # binance_quantitative_trading
-一个关于量化学习的项目
+一个关于量化交易的项目
